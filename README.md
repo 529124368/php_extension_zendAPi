@@ -16,5 +16,5 @@ sudo yum install centos-release-scl
 
 sudo yum install devtoolset-11-gcc devtoolset-11-gcc-c++
 
-scl enable devtoolset-9 bash
+scl enable devtoolset-11 bash
 ```
