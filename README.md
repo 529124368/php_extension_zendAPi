@@ -17,4 +17,7 @@ sudo yum install centos-release-scl
 sudo yum install devtoolset-11-gcc devtoolset-11-gcc-c++
 
 scl enable devtoolset-11 bash
+
+//pkg-config find path 
+export PKG_CONFIG_PATH=/usr/lib64/pkgconfig/:$PKG_CONFIG_PATH
 ```
