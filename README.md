@@ -9,6 +9,8 @@ https://doc.yonyoucloud.com/doc/wiki/project/extending-embedding-php/20.1.html
 
 https://yuerblog.cc/2017/08/11/course9-how-to-work-with-zend-array/
 
+https://zyb0408.github.io/gitbooks/realc/book/chapter-1/14.html
+
 
 # 如何更新centos下的gcc版本
 ```shell
